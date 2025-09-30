@@ -1,6 +1,6 @@
 
 body{    
-    background-image: url(/Estilo/imagens/img1.jpg);
+    background-image: url(img1.jpg);
     
 }
 #sobre {
@@ -63,3 +63,4 @@ a:visited{
 footer{
     padding-top: 100px;
 }
+
